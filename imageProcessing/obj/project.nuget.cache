@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vakt7rF47PkqkER07iAU0Qlbkeipz7a8E9AqIas484kVyI8X6jW9cZKpejyC/pZQ/M2SmB0Dnw03ffXg2hhftw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\imageProcessing\\imageProcessing\\imageProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
